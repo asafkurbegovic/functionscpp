@@ -9,6 +9,7 @@ In order to be able to make this work we made two methods. First method was in c
 calculated, loop up to the given number calling second function and then display result by looping again trough array of result. 
 Second method, which is accessed by looping in first method, creates array of integers which stores numbers that are calculated using
 for loop and multiple factorial with member of array and add on carry. Every time there is carry the size of array will increase by one.
+
 **it was not possible create this method with unsigned long long  int because for all numbers bigger than 12 it couldn’t be stored in
 memory**
 
