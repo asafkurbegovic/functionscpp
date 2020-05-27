@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1590611692 source:d:\projectscodeblock\dm\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<bits/stdc++.h>
+	<cstdint>
+
+1590393076 source:d:\projectscodeblock\dm\src\graph.cpp
+	"Graph.h"
+
+1590393076 d:\projectscodeblock\dm\include\graph.h
+
